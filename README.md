@@ -2,7 +2,7 @@
 Python app using streamlit, pandas and plotly
 
 ```bash
-steamlit run <app-name>.py
+steamlit run app.py
 ```
 
-Local URL: `http://localhost:8501`
+Local URL: `http://localhost:8500`
